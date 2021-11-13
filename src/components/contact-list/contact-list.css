@@ -1,0 +1,13 @@
+.contact-list-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.search{
+    width: 100%;
+}
+
+.contact-list {
+    height: 100%;
+    overflow-y: scroll;
+}
